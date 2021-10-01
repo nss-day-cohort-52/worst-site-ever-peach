@@ -2,8 +2,12 @@
 @import url("./fruit.css");
 @import url("./noble.css")
 
+<<<<<<< HEAD
  
 .main {
+=======
+ .main {
+>>>>>>> d44f010b35b819b656701aa719a7dc60200b1f73
  display: flex;
  background-color: brown;
  flex-wrap: wrap;
