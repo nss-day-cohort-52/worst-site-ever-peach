@@ -1,6 +1,6 @@
 @import url("./cheese.css");
 @import url("./fruit.css");
-@import url("./noble.css")
+@import url("./noble.css");
 
  .main {
  display: flex;
