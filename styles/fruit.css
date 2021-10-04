@@ -1,0 +1,23 @@
+h2 {
+    color:sienna;
+    font-family:sans-serif;
+    font-size: 400%;
+}
+
+p {
+    color: slategray;
+    font-family: fantasy;
+    font-size: 150%
+}
+
+.Rotten__Fruit {
+  border: 250px solid rgb(8, 138, 25);
+  flex-basis: 16%;
+
+}
+
+.fruit__img {
+    display: block;
+    align-items: center;
+    flex-basis: space-between;
+}
