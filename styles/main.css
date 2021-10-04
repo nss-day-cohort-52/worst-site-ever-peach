@@ -1,3 +1,10 @@
 @import url("./cheese.css");
 @import url("./fruit.css");
 @import url("./noble.css");
+ 
+ .main {
+ display: flex;
+ background-color: brown;
+ flex-wrap: wrap;
+ max-width: 100px;
+}
