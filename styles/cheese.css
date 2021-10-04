@@ -9,10 +9,10 @@ h3 {
 
 }
 .facts {
-    display: flex;
+    align-content: center;
     padding-left: 15px;
   margin-left: 15px;
-  float: right;
+  align-items: center;
   font-style: italic;
     border-style: groove;
     border-color: goldenrod;
@@ -41,6 +41,7 @@ align-self: flex-end;
     text-decoration: none;
     font-size: 20px;
     color: #2321a0;
+    border:;
     display: block;
 }
 
@@ -54,6 +55,7 @@ align-self: flex-end;
 }
 
 .worst {
+    justify-content: flex-end;
     box-sizing: content-box;
     box-shadow: indigo;
     text-shadow: khaki;
@@ -72,6 +74,7 @@ align-self: flex-end;
 }
 
 #facts-btn { 
+   
     box-sizing: border-box;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: indianred;
@@ -81,6 +84,7 @@ border: rgb(253, 255, 105);
     color: rgb(27, 26, 26);
     font-weight: bold;
     width: 200px;
+    height: 50px; 
     margin-bottom: 5px;
     border-radius: 5px;
 }
